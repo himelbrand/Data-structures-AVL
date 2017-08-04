@@ -6,9 +6,9 @@ data structures practical assignment
 # Instructions summary and translation (hebrew instruction in pdf)
 
 ### Assignment topics
-** design efficiante data sturcture for the algorithm
-** analasys of different run-times in different parts of the algorithm
-** implementation of the data sturcture in Java
+* design efficiante data sturcture for the algorithm
+* analasys of different run-times in different parts of the algorithm
+* implementation of the data sturcture in Java
 
 ## back-story
 based on the Diffie-Hellman method for creating a shared secret between two participants among a listener.
@@ -18,6 +18,6 @@ this assignment we will focus on the method presented by Ralph Merkel, the idea 
 for this assignment the parties will be: Alice and Bob are sides 1 and 2, while Eve will be the listener (implemented as Java classes).
 so Alice and Bob has the advantage that Alice created the riddles and therefore can easily find the secert key after receiving the riddle's serial number.
 
-### more info to be added
+#### more info to be added...
 
 
